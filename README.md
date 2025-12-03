@@ -135,28 +135,7 @@ This analysis highlights how lung mechanics change under pathological conditions
 
 ---
 
-## **10. Repository Structure**
 
-```
-📁 Lung-Mechanics-Simulation
-│
-├── models/
-│   ├── normal_lung.slx
-│   ├── asthma_lung.slx
-│   └── emphysema_lung.slx
-│
-├── images/
-│   ├── normal_model.png
-│   ├── asthma_model.png
-│   ├── emphysema_model.png
-│   ├── output_normal.png
-│   ├── output_asthma.png
-│   └── output_emphysema.png
-│
-└── README.md
-```
-
----
 
 
 

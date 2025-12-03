@@ -64,7 +64,12 @@ The distributed model is implemented using Simulink components corresponding to 
 
 Under healthy physiological conditions, airflow, pressure, and lung volume follow smooth, periodic sinusoidal patterns. The simulation results show stable tidal volume and consistent breathing cycles.
 
-*(Insert simulation block diagram and output graph here.)*
+<img width="1920" height="781" alt="normal_model" src="https://github.com/user-attachments/assets/46040b65-0599-4798-8cc9-34f6ca5d92c7" />
+
+
+<img width="1920" height="1028" alt="output_normal" src="https://github.com/user-attachments/assets/eb77978e-c694-46b4-acb7-605a6982b971" />
+
+
 
 ---
 
@@ -80,7 +85,10 @@ Under healthy physiological conditions, airflow, pressure, and lung volume follo
 * Breathing becomes laboured, and pressure differentials increase.
 * Amplitude of airflow waveform decreases.
 
-*(Insert asthma block diagram and output graph here.)*
+<img width="1920" height="778" alt="asthma_model" src="https://github.com/user-attachments/assets/0735df3f-2b9f-4141-8a7e-47c9f7ee229d" />
+
+
+<img width="1920" height="1028" alt="output_asthma" src="https://github.com/user-attachments/assets/568dd044-d681-4983-893a-551a58dff371" />
 
 ---
 
@@ -96,7 +104,9 @@ Under healthy physiological conditions, airflow, pressure, and lung volume follo
 * Changes in pressure–volume behaviour cause reduced elastic recoil.
 * Output waveform reflects altered breathing dynamics.
 
-*(Insert emphysema block diagram and output graph here.)*
+<img width="1920" height="783" alt="emphysema_model" src="https://github.com/user-attachments/assets/de83ee36-3864-464a-962f-8268e64e41c7" />
+
+<img width="1920" height="1027" alt="output_emphysema" src="https://github.com/user-attachments/assets/0a5d923c-62f4-4f96-9138-1e25b3055ffc" />
 
 ---
 
